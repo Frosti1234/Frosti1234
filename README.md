@@ -1,4 +1,13 @@
 ### Hi there 👋
+My name is Marcin.
+I am novice programmer aspiring to become .net developer.
+
+## Technologies
+- c++/qt library (basics)
+- java (basics)
+- c# ASP.NET Core/MVC/xUnit
+- MS SQL Server
+
 
 <!--
 **marcin99xxx/marcin99xxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
