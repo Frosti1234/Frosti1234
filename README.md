@@ -5,6 +5,8 @@ I am novice programmer aspiring to become .net developer.
 ## Technologies
 - c++/qt library (basics)
 - java (basics)
+- Bootstrap
+- Angular(learning)
 - c# ASP.NET Core/MVC/xUnit
 - MS SQL Server
 
