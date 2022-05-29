@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 My name is Marcin.
 I am novice programmer aspiring to become .net developer.
 
