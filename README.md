@@ -1,13 +1,13 @@
 ### Hi 👋
 My name is Marcin.
-I am novice programmer aspiring to become .net developer.
+I am novice programmer.
 
 ## Technologies
 - c++/qt library (basics)
 - java (basics)
 - Bootstrap
 - Angular(learning)
-- c# ASP.NET Core/MVC/xUnit
+- c# ASP.NET Core/MVC (basics)
 - MS SQL Server
 
 
