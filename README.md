@@ -6,7 +6,7 @@ I am novice programmer.
 - c++/qt library (basics)
 - java (basics)
 - Bootstrap
-- Angular(learning)
+- Angular (learning)
 - c# ASP.NET Core/MVC (basics)
 - MS SQL Server
 
