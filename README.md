@@ -3,7 +3,6 @@ My name is Marcin.
 I am novice programmer.
 
 ## Technologies
-- c++/qt library (basics)
 - java (basics)
 - Bootstrap
 - Angular (learning)
