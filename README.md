@@ -3,12 +3,11 @@ My name is Marcin.
 I am novice programmer.
 
 ## Technologies
-- java (basics)
-- Bootstrap
-- Angular (learning)
-- c# ASP.NET Core/MVC (basics)
-- MS SQL Server
-
+- java Spring Framework (Entry level)
+- Angular 1 year commercial experience.
+- c# ASP.NET Core/MVC (Entry level)
+- MS SQL Server (Entry level)
+- My SQL (Entry level)
 
 <!--
 **marcin99xxx/marcin99xxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
