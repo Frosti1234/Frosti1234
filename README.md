@@ -4,14 +4,14 @@ I am frontend developer.
 
 ## Technologies
 - java Spring Framework (Entry level)
-- Angular (1 year commercial experience).
-  • HTML
-  • CSS,SCSS
-  • Typescript
-  • RxJs
-  • NgRx
-  • Angular Material
-  • DevExtreme
+- Angular (1 year commercial experience).<br>
+  • HTML<br>
+  • CSS,SCSS<br>
+  • Typescript<br>
+  • RxJs<br>
+  • NgRx<br>
+  • Angular Material<br>
+  • DevExtreme<br>
 - c# ASP.NET Core/MVC (Entry level)
 - MS SQL Server (Entry level)
 - My SQL (Entry level)
