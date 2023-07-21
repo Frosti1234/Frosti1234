@@ -3,7 +3,6 @@ My name is Marcin.
 I am frontend developer.
 
 ## Technologies
-- java Spring Framework (Entry level)
 - Angular (1 year commercial experience).<br>
   • HTML<br>
   • CSS,SCSS<br>
@@ -12,6 +11,7 @@ I am frontend developer.
   • NgRx<br>
   • Angular Material<br>
   • DevExtreme<br>
+- java Spring Framework (Entry level)
 - c# ASP.NET Core/MVC (Entry level)
 - MS SQL Server (Entry level)
 - My SQL (Entry level)
