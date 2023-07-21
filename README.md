@@ -1,10 +1,17 @@
 ### Hi 👋
 My name is Marcin.
-I am novice programmer.
+I am frontend developer.
 
 ## Technologies
 - java Spring Framework (Entry level)
-- Angular 1 year commercial experience.
+- Angular (1 year commercial experience).
+  • HTML
+  • CSS,SCSS
+  • Typescript
+  • RxJs
+  • NgRx
+  • Angular Material
+  • DevExtreme
 - c# ASP.NET Core/MVC (Entry level)
 - MS SQL Server (Entry level)
 - My SQL (Entry level)
